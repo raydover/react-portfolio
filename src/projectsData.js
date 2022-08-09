@@ -3,7 +3,7 @@ import EFit from "./assets/images/e-fit.png";
 
 // Projects list
 // eslint-disable-next-line import/no-anonymous-default-export
-const projects = [
+const projectsData = [
     {
         id: 1, 
         image: BlastOff,
@@ -23,4 +23,4 @@ const projects = [
 ];
 
 //Export projects data
-export default projects;
+export default projectsData;
