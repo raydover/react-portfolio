@@ -11,8 +11,8 @@ const Portfolio = () => {
     if (currentPage === 'About') {
       return <About />;
     }
-    if (currentPage === 'Blog') {
-      return <Blog />;
+    if (currentPage === 'Resume') {
+      return <Resume />;
     }
     return <Contact />;
   };
